@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there 👋🏻
+
+I'm Pia, a developer living in Berlin.  
+
+🔸 she/her  
+
+💻 Open for work  
+  
+How to reach me:    
+🌐 [LinkedIn](https://www.linkedin.com/in/pialuna)      
+📧 [pialuna.contact@gmail.com](mailto:pialuna.contact@gmail.com)  
+
+Topics:  
+▫️ Voice App Development: Jovo Framework, Alexa Skills  
+▫️ Frontend Development: Vue.js, Vuex, Tailwind CSS  
+▫️ APIs: Node.js, Express.js
+
+
 
 <!--
 **pialuna/pialuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
