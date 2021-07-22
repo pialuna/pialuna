@@ -12,7 +12,7 @@ How to reach me:
 
 Topics:  
 ▫️ Voice App Development: Jovo Framework, Alexa Skills  
-▫️ Frontend Development: Vue.js, Vuex, Tailwind CSS  
+▫️ Frontend Development: React, Vue.js, Vuex, Tailwind CSS  
 ▫️ APIs: Node.js, Express.js
 
 
