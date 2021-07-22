@@ -3,8 +3,6 @@
 I'm Pia, a developer living in Berlin.  
 
 🔸 she/her  
-
-💻 Open for work  
   
 How to reach me:    
 🌐 [LinkedIn](https://www.linkedin.com/in/pialuna)      
